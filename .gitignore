@@ -154,3 +154,4 @@ docs/_build
 139_filter.csv
 ventas.parquet
 precios.parquet
+*.csv
